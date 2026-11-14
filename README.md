@@ -14,6 +14,9 @@ One of the models is a free standing base for any desk fits needs. The second mo
 
 ## Gallery
 
-<img src=/Unclamped/Pictures/pic1.png alt="3D Model View" width="300"/> <img src=/Unclamped/Pictures/pic2.png alt="3D Model View" width="300"/> 
-<img src=/Unclamped/Pictures/pic3.png alt="3D Model View" width="300"/> <img src=/Unclamped/Pictures/pic4.png alt="3D Model View" width="300"/> 
-<img src=/Unclamped/Pictures/pic5.png alt="3D Model View" width="300"/> <img src=/Unclamped/Pictures/pic6.jpg alt="Make picture" width="300"/>
+### Unclamped
+<img src=Unclamped/Pictures/pic1.png alt="3D Model View" width="200"/> <img src=Unclamped/Pictures/pic2.png alt="3D Model View" width="200"/> <img src=Unclamped/Pictures/pic3.png alt="3D Model View" width="200"/> 
+<img src=Unclamped/Pictures/pic4.png alt="3D Model View" width="200"/> <img src=Unclamped/Pictures/pic5.png alt="3D Model View" width="200"/> <img src=Unclamped/Pictures/pic6.jpg alt="Make picture" width="200"/>
+
+### Clamped
+<img src=Clamped/Pictures/picture1.png alt="3D Model View" width="200"/> <img src=Clamped/Pictures/picture2.png alt="3D Model View" width="200"/>
